@@ -129,6 +129,20 @@ A future improvement would be to migrate the project to Maven or Gradle so compi
 - Graphical client interface
 - Docker-based deployment
 
+ ## Screenshots
+
+### Distributed system startup
+
+![System startup](screenshots/system-startup.png)
+
+### Multiplayer game
+
+![Multiplayer game](screenshots/multiplayer-game.png)
+
+### RMI callback communication
+
+![RMI callback](screenshots/rmi-callback.png)
+
 ## Academic context
 
 The original implementation was created as part of a Distributed Systems subject in a Computer Engineering degree. This public version contains the implementation source code reorganized and documented for portfolio purposes; generated binaries, IDE metadata and original assignment material have been omitted.
